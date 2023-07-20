@@ -29,7 +29,7 @@ I**mplementing a Test Suite Minimization Module**
   *  Complexity: Refining the analysis process can be intricate and might necessitate substantial modifications to Kex's core functionality.
  *   Potential Increase in Processing Time: The integration of new analysis components, such as path pruning or probabilistic path selection, could extend the time required for test case generation.
 ----
-###TASK 2
+### TASK 2
 
 This is a challenging question as it largely depends on the current workings of Kex's analysis and the manner in which we plan to enhance it. While improvements will inevitably slow down the process, it might still be faster compared to the minimization module, which only applies minimization after running the key.
 
